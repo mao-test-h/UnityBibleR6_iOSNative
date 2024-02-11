@@ -18,7 +18,7 @@ namespace PluginExamples.Introduction
 
         private INativeProxy _nativeProxy;
 
-        void Start()
+        private void Start()
         {
 #if UNITY_IOS && !UNITY_EDITOR
             _nativeProxy = new NativeProxyImpl();
