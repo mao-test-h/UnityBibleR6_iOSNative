@@ -16,7 +16,7 @@
 - `IntroductionExample.unity`
     - シーン
 - `IntroductionExample.cs`
-    - UI上からプラグインを呼び出すためのプログラム  
+    - UI 上からプラグインを呼び出すためのプログラム  
 
 ### `Assets/PluginExamples/Introduction/Plugins/iOS`
 
