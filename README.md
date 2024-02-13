@@ -9,7 +9,7 @@
 
 ## フォルダ／ファイルの説明
 
-### `Assets/PluginExamples/Introduction  `
+### `Assets/PluginExamples/Introduction`
 
 サンプルプロジェクトの「シーン」及び「UI 上からプラグインを呼び出すためのプログラム」が入っています。  
 
